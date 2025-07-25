@@ -1,0 +1,31 @@
+name: gf7013
+channels:
+    - conda-forge
+dependencies:
+    - python=3.12
+    - git
+    - make
+    - cartopy
+    - cmake
+    - hdf5
+    - h5py
+    - openmpi
+    - mpi4py
+    - openblas
+    - numpy
+    - scipy
+    - matplotlib
+    - ipympl
+    - notebook
+    - ipywidgets
+    - jupyterlab
+    - cartopy
+    - pyproj
+    - jupyter
+    - notebook
+    - tqdm
+    - pytest
+    - pandas
+    - plotly
+    - python-kaleido
+
