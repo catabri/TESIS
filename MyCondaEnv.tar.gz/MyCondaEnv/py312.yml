@@ -1,0 +1,32 @@
+name: py312
+channels:
+    - conda-forge
+    - mosek
+dependencies:
+    - python=3.12
+    - git
+    - make
+    - cartopy
+    - cmake
+    - hdf5
+    - h5py
+    - openmpi
+    - openblas
+    - numpy
+    - scipy
+    - cvxpy
+    - mosek=10
+    - cvxopt
+    - matplotlib
+    - ipympl
+    - notebook
+    - ipywidgets
+    - jupyterlab
+    - cartopy
+    - pyproj
+    - jupyter
+    - notebook
+    - tqdm
+    - pytest
+
+
